@@ -72,32 +72,32 @@ Recreated the Apple iPhone 15 Pro website with stunning 3D models and GSAP anima
 
 ### 2. 🤖 Brainwave - AI Chat Application
 Conceptual AI chatting interface designed to showcase modern UI/UX principles.
-- **Tech:** React, TypeScript, Tailwind CSS
+- **Tech:** React, GSAP, Tailwind CSS
 - **Features:** Modern UI, responsive design, interactive elements
 
 ### 3. 📄 Resumind - AI-Powered Resume Builder
 AI-powered platform for creating professional resumes with smart suggestions.
-- **Tech:** Next.js, TypeScript, Firebase
+- **Tech:** React router, TailwindCss, Vite
 - **Features:** AI resume generation, real-time preview, export to PDF
 
 ### 4. 🎓 Edusity - Educational Platform
 Modern educational platform concept for the future of learning.
-- **Tech:** React, Node.js, Firebase
-- **Features:** Course management, student dashboard, responsive design
+- **Tech:** React
+- **Features:** Programs offered, Testimonials,  
 
 ---
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js 18+ installed
+- Node.js 20+ installed
 - npm or yarn package manager
 
 ### Installation
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Sawech/portfolio.git
+git clone https://github.com/Sawech/portfolio
 cd portfolio
 ```
 
@@ -146,7 +146,7 @@ portfolio/
 
 ## 💼 About Me
 
-Hi! I'm **Fares Sawech**, a passionate Full Stack Developer based in Algeria. I specialize in building beautiful, functional web applications with modern technologies.
+Hi! I'm **Fares Chikhi**, a passionate Full Stack Developer based in Algeria. I specialize in building beautiful, functional web & mobile applications with modern technologies.
 
 - 🔭 Currently working on innovative web projects
 - 🌱 Constantly learning and improving my skills
